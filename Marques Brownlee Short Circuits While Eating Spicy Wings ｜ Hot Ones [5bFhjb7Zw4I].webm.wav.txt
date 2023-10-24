@@ -1,0 +1,701 @@
+ (dramatic music)
+ - The ones that connect to a computer can be more immersive.
+ I really like the, hold on.
+ - Take your time, take your time.
+ (dramatic music)
+ - Hey, what's going on everybody?
+ For First We Feast, I'm Sean Evans
+ and you're watching a Hot Ones reunion special
+ brought to you by Diablo IV,
+ the iconic action RPG series returning on June 6th.
+ And we're once again joined in the hot seat
+ by Marques Brownlee.
+ For more than a decade, he's been YouTube's tech consigliere
+ with his channel MKBHD.
+ Proud to say I'm one of its 17 million subscribers.
+ Check out his podcast Waveform
+ and he has a brand new sneaker collaboration
+ with Adams out as well, the model 251.
+ Marques Brownlee, welcome back to the show.
+ - Thank you again for having me.
+ - You know, it's been almost five years to the day
+ since our OG Hot Ones interview.
+ It was back in season six of the show.
+ How, if at all, has your relationship to hot sauce
+ changed in that time?
+ - I meant to talk to you about this.
+ - Okay, great.
+ - Before the show, I remember you asked,
+ like, how are you with spicy food?
+ And I didn't really have an answer.
+ Since that show, I've become, I mean,
+ I've had a lot of hot sauce in the fridge at work
+ all over the place.
+ I've become the spicy food guy somehow.
+ So, it's changed in a good way.
+ I think this show has introduced me
+ to a world of spicy food.
+ - We made you a Spiceman.
+ - Yeah, yeah, which is awesome.
+ - All right, you ready to get started?
+ - I am.
+ (dramatic music)
+ Last time we did this, almost the bomb is the same.
+ Everything else is different.
+ So, I'm looking forward to re-experiencing it,
+ but a little bit different.
+ Also, I didn't eat lunch yet, so.
+ - So, this is the perfect way to do it.
+ (gentle music)
+ So, one of your philosophies on making good videos
+ that I really relate to is the idea
+ that the gadget or product being reviewed
+ should be the star of the show,
+ which is really how I think about each new guest
+ on an episode of Hot Ones.
+ How has that insight steered the trajectory of MKBHD
+ and your approach to being a host?
+ - You know, it's funny, it actually helps.
+ Anytime you talk to a creator or a YouTuber,
+ you probably talk to a lot of them,
+ where this concept of burnout comes up.
+ - Yep.
+ - And I just feel like the fact
+ that I am not constantly trying to make,
+ like if I was a vlogger, my own life would be the subject,
+ and then you're trying to make your own life exciting
+ for the video.
+ So, it's nice that I am not the star of the show.
+ I think over time, I had to realize that.
+ And so, yeah, it's just a matter of finding
+ cool new tech things happening, that's always happening,
+ and I just got to point a camera at it,
+ which is pretty sweet.
+ And I feel like you also have this balancing act of like,
+ you have to either make a guest more comfortable
+ or let them fill the space.
+ Like I remember watching the "Know the Grass Tights" episode
+ where he just fills the room.
+ - Yeah, right. - It's just what he does,
+ and it's amazing.
+ But you have this balancing act too.
+ (crunching)
+ (upbeat music)
+ I like Verde hot sauces.
+ Now I'm thinking about all the hot sauces
+ we have in the studio.
+ - And that you get to add more.
+ - Are we gonna get some of these?
+ - You're gonna get everything.
+ - Yes, the studio crew's gonna be pumped about that.
+ - So I know that you're inundated with requests
+ to review products, and earlier this year,
+ made a vow to say yes to every pitch email
+ that hit your inbox.
+ Can you give us one highlight and one low light
+ from that 30-day experiment?
+ - That was so much fun.
+ I mean, my job at this point is not just reviewing tech,
+ but filtering the inbox for what to say yes to.
+ And I think part of that means a lot of stuff gets lost,
+ that people don't even realize the absurd things
+ that happen in the inbox.
+ We're like, can you review this scooter
+ that goes 60 miles an hour?
+ Can you review this other thing?
+ So I just said yes for a month.
+ Got a bunch of weird stuff out of it.
+ I think the highlight was that I was pleasantly surprised
+ by some of the stuff, fully knowing that,
+ before I even got it, I was like,
+ I know I'm gonna hate this.
+ And getting some of them,
+ trying to think of a specific thing that we got,
+ but some of the weird earbuds we got,
+ which were cheap and kind of a knockoff,
+ but also sounded pretty good, so it was surprising.
+ Just gave me a new appreciation for,
+ I think I'm gonna say yes to more things.
+ Not to, this is gonna, the brands are gonna start
+ pouring in. - Hey, you heard that,
+ brands, green light to MKBHD's inbox.
+ - Not everything, not everything.
+ - What's the weirdest thing that got sent to you?
+ - The weirdest, that's always a weird--
+ - I mean-- - You got a coffin.
+ - Yeah, the coffin might be the weirdest thing.
+ And it's weird because we really got used to it.
+ Like, we got the coffin a month into the series,
+ and it's been sitting around in the studio,
+ and we've fully gotten used to a coffin
+ sitting in the middle of the studio for months,
+ which is probably the weirdest thing.
+ I do like lemon pepper.
+ - So far, so good. - I like these.
+ I'm gonna enjoy these while they're nicely spicy.
+ - That's what's kinda nice about getting a second
+ go-around on hot ones, you know?
+ There's no like the fear and anxiety of the unknown,
+ you know, you can really kinda like enjoy it.
+ - I know where this is going.
+ I know where this is going.
+ I'm not gonna get overconfident.
+ But like, first half, lunch.
+ Second half, we'll see how it goes.
+ - Battle, war. - Exactly.
+ - What's your favorite car you've ever driven under $50,000?
+ - Ooh, that's a tough price,
+ 'cause I was just talking about the EV6 GT,
+ which I love, but it's $60,000.
+ So my favorite car I've driven under 50.
+ I think that might go to, that's a tough one.
+ Polestar might be 55.
+ - You can go 55.
+ I'll give you a five grand leeway, yeah, yeah.
+ - I really like the Polestar.
+ And the Polestar is just like the sort of a midsize
+ crossover, hatchback thing, super simple, made by Volvo.
+ Not too flashy, but just like a solid, nice EV.
+ And something you don't appreciate about cars
+ until you get to use a bunch of them
+ is their software across the board sucks.
+ All of them, bad.
+ So when they actually have good software
+ and you just get to use it out the box
+ and not worry about connecting your phone,
+ that's kind of rare.
+ - What's something people tend to over-index
+ when they're shopping for a car,
+ and then is there something that you think
+ they don't think about enough?
+ - Underappreciated is software,
+ 'cause it's either I'm connecting my phone via Bluetooth
+ or they just go straight to CarPlay.
+ And a lot of the ones that just go straight to CarPlay,
+ you ignore the GPS built in, the radio built in,
+ all those, and they're usually terrible,
+ but if they're good, they could surprise you
+ and maybe you might use that.
+ So maybe that's under-indexed.
+ And then probably over-indexed is performance.
+ It's just fun.
+ You don't actually need a fast car,
+ but come on, it's fun, it's fun.
+ It's a busy bottle.
+ - Yeah, a lot going on.
+ - Remember last time I reviewed the bottles?
+ - Yeah, I remember that.
+ - I'm sort of doing that again.
+ - For a big time, yeah.
+ So one of the staples of your channel
+ has been the studio tours,
+ and I know that you're working steadily
+ to build out your ultimate content creation HQ.
+ Is there a detail in the new studio
+ that maybe people thought was ridiculous
+ when you were conceiving it,
+ but something that you're really proud of?
+ - One thing I always point out,
+ even though no one seems to care when I show it to them,
+ is every room that we shoot video in
+ also needs to sound good.
+ You don't think about that until you're in a room
+ that sounds bad.
+ This room sounds good, and you look up,
+ and you see the fiberglass,
+ and you see the backdrop we have here,
+ and all the things in the room contribute
+ to it sounding good.
+ So the first thing we did in our new spot,
+ 'cause it was an echo chamber,
+ was put a ton of foam in the ceiling.
+ It cost us too much,
+ but to have people come up and glue foam
+ to the entire ceiling,
+ and then put our carpet down.
+ And that probably would look ridiculous
+ on an invoice sheet,
+ and be like, "Why did you buy that much foam?"
+ - Yeah, it sounds good.
+ - But when you walk into that room,
+ empty and clap, you would hear it,
+ I'm not exaggerating,
+ you would hear that clap for seven seconds.
+ And now it just sounds like us talking in a room,
+ which is a massive improvement.
+ So, looks crazy to buy a bunch of foam, but it works.
+ - What was the most jaw-dropping thing
+ that you saw walking through the Mr. Beast campus?
+ - That scale of operation is amazing.
+ Jimmy's, has he not been on the show yet?
+ - No, not yet, not yet.
+ - Okay, well Jimmy, explain it to Sean for yourself, please.
+ No, I mean, I'm the gear head,
+ so I walked in the gear room,
+ and there was just these shelves and shelves
+ of cameras and batteries,
+ 'cause what they do is a little bit next level.
+ We have a lot of cameras, obviously,
+ but they'll shoot a challenge
+ with like a hundred people doing something.
+ All hundred people have a camera, and a battery,
+ and an SD card, and a microphone,
+ and suddenly there's just this wall of gear.
+ - It's like an old school operator, you know,
+ pulling this wire out of this thing.
+ - There's a lot, yeah, exactly.
+ And so, yeah, they have a lot,
+ and that means there's a lot of chargers,
+ a lot of memory card readers, a lot of all that stuff.
+ - How would you grade the Hot Ones studio
+ on a scale from content creator's paradise
+ to total shithole?
+ - All right, let's see here.
+ Camera's pretty solid.
+ I mean, this is the thing about,
+ you walk into a studio,
+ you never really know what to expect.
+ Every time I walk into someone's studio,
+ I'm surprised by something.
+ - Yeah, yeah, yeah.
+ - This was nice.
+ This sounds excellent.
+ - Good sound.
+ - I don't know if you appreciate how quiet it is in here.
+ - It is, that's nice.
+ - Like there's no HVAC sounds.
+ You're in New York City, there's no helicopters.
+ That's great.
+ - We're in the void.
+ - And then it gets dark back here,
+ so you got this nice like focused lighting.
+ I think I'm gonna give it a good grade.
+ This is nice.
+ This is a nice studio.
+ - Well, we'll take that.
+ We'll take that.
+ - You've made it on YouTube.
+ - Well, if Marques Brownlee says it,
+ then you know it's the truth.
+ Are you ready to move on here to the halfway point?
+ - Calientes.
+ - This is Los Calientes Rojo.
+ - So good.
+ - Still hitting.
+ - Yeah.
+ - Thus concludes the lunch portion.
+ - Exactly.
+ - Of today's program.
+ - As suspected.
+ - So my apologies,
+ as I'm sure you get this all the time in your real life,
+ but I have like some tech pet peeves
+ that I kind of want to bounce off of you.
+ And you might not even have a response to this.
+ Maybe I just need you as like a shoulder to lean on,
+ but here's my thing, all right?
+ So in the decade plus since it was introduced,
+ I feel like there has been zero improvement
+ in airplane wifi, which for the record cost $39.95
+ for a single cross country flight
+ from New York to Los Angeles and vice versa.
+ My question to you, maybe you know, maybe you don't,
+ maybe you have a theory,
+ but is the needle, the tech needle to thread
+ on airplane wifi just so impossible
+ or are we all getting robbed in the air?
+ (laughing)
+ - A little bit of both.
+ It's definitely, I remember hearing from like my parents
+ about how when you got on a long flight,
+ you would just sit there and there was nothing to do.
+ And so I can appreciate that at least there is wifi,
+ but I'm with you,
+ slow wifi is worse than no wifi at all.
+ - And I feel like if we vote with our wallets
+ and we start not using the airlines that have awful wifi,
+ - There we go.
+ - Maybe, maybe they'll be incentivized
+ to do a little better.
+ - The revolution starts today.
+ (gentle music)
+ - A little tart.
+ Kind of like it.
+ - Yeah.
+ - It's not too, I mean, it might hit me in a second,
+ but I kind of like it.
+ - I'm not gonna lie on you.
+ - Okay, that's fair.
+ - Yeah, you know.
+ - Yeah.
+ - It's one of those that has like,
+ you said tart upfront and I agree with you, right?
+ - Yeah.
+ - But then it's one of these that kind of builds.
+ - Like a wave?
+ - A little wave coming on.
+ - Yeah, we've been, yeah.
+ - Yeah, you know.
+ Very pepper forward sauce right there.
+ - Feel it.
+ - Smokey, smokey, you know.
+ So I mean this with all due respect,
+ but your most impressive YouTube videos
+ are the ultimate Frisbee highlights.
+ Quick shout out to the New York Empire,
+ your 2022 AUDL champions.
+ - Thank you.
+ - The pizza pie throw, all right?
+ Is that actually practical?
+ Is that useful or is that just for show offs?
+ - You're talking about, I'm assuming,
+ the sort of over the top weird one.
+ - Yeah, the over the top, but you're not really gripping it.
+ You know, you're just pizza pieing.
+ - For the beach, you know, that's a fun one.
+ In a game, a lot of people don't think about this,
+ but you're throwing against someone
+ who's right in front of you, called the mark.
+ So the most useful throws are far out from your body
+ or over the top of them.
+ There's a lot of novelty fun throws on the beach
+ that aren't that, so they wouldn't work in a game,
+ but I appreciate the reference.
+ - What's the most impressive trick shot
+ you ever recall hitting off of the field?
+ - Okay, so a long time ago,
+ I did a YouTube collab with Brody Smith.
+ - Yes, yes.
+ - Who has done a ton of trick shots,
+ really interesting ones.
+ And he came out to our college campus,
+ this is, I was in college at the time,
+ and we just took a whole day to shoot trick shots.
+ And first thing I thought in my head
+ when shooting that video was like,
+ how long does it really take this guy
+ to hit these trick shots?
+ And he's incredible at it.
+ And the goal for the video was for me
+ to also hit trick shots, and I was not incredible at it,
+ so it took me a lot longer, but I hit some crazy,
+ like sort of 40 yard diagonal off of a roof shot
+ into a trash can that I felt pretty good about.
+ I'll never be able to do that again,
+ but that was my best trick shot.
+ - And it was caught on video.
+ - Yeah, yeah.
+ - You can't help saying that.
+ (gentle music)
+ - I kinda like the pepper, the jalapeno part of that one.
+ - Yeah, which comes through.
+ This one I feel like it's a little sharper now,
+ but the other one was kind of like smoky.
+ - You probably have the best description,
+ like you know how people will describe wine
+ 'cause they taste like thousand?
+ - Yeah, right, right, yeah, the hot sauce and malay.
+ - You should have the shapes and the tones
+ and textures of hot sauce, right?
+ - Right, so like this one,
+ a little bit more of a razor cut.
+ A little bit more of a razor cut.
+ - Sharp up front. - You know, yeah, yeah.
+ Whereas this one, you know you're walking in a room
+ full of smoke, you know?
+ Smokey sauna is what we call this one.
+ This one a little bit more razor blade,
+ little cut, little cut action.
+ - Feel that, interesting.
+ I like that.
+ - What's the YouTube rabbit hole or channel
+ besides your own that you've binged the most
+ in the last year?
+ - Lifetime, probably Vsauce.
+ - Yeah, legend.
+ - I've watched like every Vsauce video and they're all long.
+ So probably hours wise.
+ I've also watched a lot of Schultz's podcasts.
+ - You're on flagrant.
+ - Yeah, yeah, those are long podcasts.
+ I feel like yeah, podcasts probably the most hours.
+ I do have my own podcast, which is like an hour long,
+ but there are some like three hour podcasts
+ that I watch on YouTube, so probably those.
+ - There you go.
+ Do you get into any like off-piece genres
+ or like hyper specific YouTube genres?
+ Like if you looked at my watch history,
+ like basically it'd just be like suspect interrogation
+ videos and then mini docs on like elderly people
+ who are in romance scams.
+ Like are you into anything weird?
+ - YouTube has a way of finding you.
+ Like your homepage is probably that specific.
+ - Yeah, every time and I can't stop, I can't stop.
+ - I have gotten into the exact same interrogation
+ video rabbit hole probably that you have.
+ - JCS baby.
+ - There's a lot of them.
+ - Mine right now is probably,
+ so I've been watching a lot of car videos
+ and there's a lot of car videos that are like 30 second
+ intros made by the salesman in the dealership.
+ - Interesting.
+ - Which is a weird, I don't know how they get connected
+ by the YouTube gods, but they just keep surfacing.
+ Like Porsche of Englewood has a 30 second video
+ about the 911 Carrera.
+ You should watch it.
+ You're not gonna buy it, just watch it.
+ So that's one.
+ - So basically like YouTube car classified ads?
+ - Basically, yeah.
+ I don't know how they connect these.
+ Yeah, that was not even that weird, but they're.
+ - Not as weird as me.
+ - You've got some rabbit holes.
+ - I gotta, I need an evaluation.
+ All right, on the topic.
+ - Here we are.
+ - This next sauce.
+ - Here we are.
+ (dramatic music)
+ (dramatic music)
+ - My old friend, you know?
+ - Yeah.
+ (dramatic music)
+ - Just as you remember it.
+ - Yeah, yeah.
+ Here we are, Sean.
+ - Yep.
+ - Yep.
+ - Bring you back.
+ - Yeah, did I ever tell you about last time?
+ - No, tell me about last time.
+ - Last time after the show,
+ I had a Summer League Ultimate Frisbee right after.
+ - What?
+ - And that was the worst part of my day.
+ It just sits with you, you know?
+ - Yeah, and then, yeah.
+ And the cramping that you can get
+ with something like this, you know?
+ I wouldn't even wanna be in a line when that hits
+ and you were just like out on the field.
+ - Yeah, running around.
+ - Mm.
+ Wow, that went way worse.
+ - Then you remember it?
+ - Yep.
+ - I know, I know.
+ You know, you get five years of distance from it
+ and you're like, oh, well, how bad can it be?
+ You know?
+ - Rose colored glasses.
+ - And then, yeah, and then you get face to face again.
+ - Oh my God.
+ - I know, I know, and it doesn't stop.
+ - Do you have a Mount Rushmore of tech CEOs?
+ - Not really.
+ I think they're all, most of them,
+ actually my favorites are the product people.
+ - Yeah, yeah.
+ - Because they get in the weeds
+ of the actual quality of the product.
+ But a lot of them are like steering a large boat
+ with many oars.
+ So I can respect the direction
+ that they choose to steer the boat,
+ but there's a lot of people helping those people out.
+ - Yeah.
+ And like the product person,
+ like I've heard you make the comparison
+ that like Steve Jobs was like a product guy, right?
+ - Yeah.
+ - But Tim Cook's a little bit different.
+ - Yeah, he's the supply chain guy, which is cool.
+ That's like a great, you know,
+ that's how you become the CEO.
+ It's by making them a lot of money, being very efficient.
+ But I just like talking to product people
+ 'cause I care about the products.
+ - You're a product guy.
+ - Exactly.
+ So yeah, I'm sure Tim's cool.
+ (laughing)
+ - If you were CEO of YouTube for a day,
+ like what would be your first course of action?
+ Like, is there a feature you'd bring back
+ or one that you'd introduce?
+ - I'm really good at looking backwards.
+ - Yeah, me too.
+ - I would, I would say,
+ - Yeah, me too.
+ - I'd bring back the dislike counter.
+ - Yeah, I missed that.
+ The thumbs up, thumbs down.
+ - It's useful.
+ - Yeah, I like that.
+ - It's just a good way to show.
+ - I like that, yeah.
+ - You can't go back too far,
+ but there was an old feature called video responses,
+ where if someone made a video response to your video,
+ you could approve it
+ and it would show up right underneath your video.
+ And it was a neat like networking feature where,
+ you know, three cool people made a video response
+ to your video, you could have them right below.
+ That was cool, I'd bring that back too.
+ - All right, Marques.
+ - We're moving on already?
+ Peculiar, okay.
+ - It's a strange one.
+ - It's the reddest one.
+ - It is, it's the reddest hot sauce, yeah.
+ It's a Rudolph's nose hot sauce.
+ - Nothing can hurt me now.
+ The bomb already got me.
+ - Right.
+ - I'm fine.
+ - Yeah.
+ - It's fine.
+ - Just in times like these, right?
+ - It is peculiar.
+ - So I remember and appreciate the pro bono consulting work
+ that you did for me when I was shopping for a camera.
+ What's the most immersive VR experience you've ever had?
+ 'Cause now I'm in that market.
+ - Recently, there's still like a,
+ there's still two types of VR.
+ There's the ones that are standalone
+ and then there's the ones that are connected to a computer.
+ The standalone ones are kind of limited
+ by the fact that they need a battery
+ and they need to be lightweight.
+ The ones that connect to a computer can be more immersive.
+ I really liked the, hold on.
+ - Take your time, take your time.
+ - I really liked the PlayStation, the PSVR 2.
+ If you've tried that one.
+ It's really, it's good.
+ It's immersive.
+ It's really virtual.
+ - All right, Marques, as we've established,
+ you're well versed in the tradition of hot ones.
+ So you're probably wondering to yourself right now,
+ where is the last app?
+ Where is the last app?
+ Well, I regret to inform you that we are now face to face
+ with a special edition Diablo 4 sauce.
+ This one right here, Lilith's Hatred.
+ - Okay, sure.
+ - In the game, she's the demonic mother of humanity
+ and co-creator of Sanctuary, where Diablo 4 takes place.
+ She's also known as the Daughter of Hatred
+ and is the big bad of Diablo 4.
+ So it's safe to say this sauce will be hell,
+ but I think for tradition's sake,
+ we should put a little on the last wing.
+ - I feel like, all right, I feel real.
+ All right, there we go.
+ - So here we go.
+ - Yeah, yeah, yeah, yeah, I got you.
+ - So Diablo 4, all about letting you play your way
+ from customizing your character
+ to exploring a totally open world.
+ Here on Hot Ones though, there's only one way to end.
+ And it's not easy.
+ - All right.
+ - Cheers, Marques. - Cheers.
+ - And there we go.
+ I know, I know.
+ - Yep.
+ - I know.
+ - Yeah.
+ - Okay, Marques Brownlee, to close things out,
+ I love the way that you, Andrew, and David
+ break up the podcast with these trivia mini games, all right?
+ But you've never had to take on these kinds of questions
+ with your brain marinating in hot sauce.
+ So what I have here is a tech quiz for you,
+ a tech pop quiz.
+ Multiple choice, you get two out of three of these right,
+ I'll be blown away, especially under these conditions.
+ All right, are you ready?
+ - Okay.
+ - Question number one.
+ What was the first computer virus
+ to cause a massive global epidemic discovered in 1988?
+ Was it I Love You, Melissa Virus, Morris Worm, or My Doom?
+ - Dang.
+ I'm really glad it's multiple choice.
+ That's tough.
+ Is it I Love You?
+ - It is Morris Worm.
+ Morris Worm, one down.
+ We got two more, we got two more, we got two more.
+ - It's gotta be milk.
+ - What was the name of the first electronic
+ general purpose computer completed in 1945?
+ Univac One, IBM 701, ENIAC, Colossus.
+ - I just want you to know, I have no idea.
+ - Just take a swing, baby.
+ - There's no way I would know anything about,
+ that's why I did Retro Tech.
+ I don't know anything about pre-2000 tech.
+ Give me those one more time.
+ - Ready? - Yeah.
+ - Univac One, IBM 701, ENIAC, Colossus.
+ - Univac One?
+ - It was ENIAC, it was ENIAC.
+ One more for you, one more for you.
+ - Not going well.
+ - And it's super easy.
+ What is the name of the principle stating
+ that it is impossible to perfectly replicate
+ both the position and momentum
+ of a quantum particle simultaneously?
+ Is that Schrodinger's Uncertainty Principle,
+ Heisenberg's Uncertainty Principle,
+ Planck's Uncertainty Principle,
+ or Dirac's Uncertainty Principle?
+ - Univac One.
+ - Univac One.
+ - Uncertainty Principle.
+ I wanna get one of these right.
+ So this is, I gotta think about this one.
+ One more time.
+ - Sure, are you ready?
+ - Yes, yes, I'm listening carefully.
+ - What is the name of the principle stating
+ that it is impossible to perfectly replicate
+ both the position and momentum
+ of a quantum particle simultaneously?
+ - Heisenberg's Uncertainty Principle.
+ - Without even taking on the multiple choice,
+ the answer is Heisenberg's Uncertainty Principle.
+ - Dang, look at you, Marques Brownlee,
+ for the second time taking on the wings of death
+ and living to tell the tale.
+ Now there's nothing left to do
+ but roll out the red carpet for you.
+ This camera, this camera, this camera,
+ let the people know what you have going on in your life.
+ - I'm just, I'm still making tech YouTube videos.
+ I'm doing the same thing I was doing five years ago,
+ just like you.
+ - I'll see you in another five years.
+ - Yeah, exactly.
+ This is real.
+ I'm glad that the sauces are still pretty fire.
+ Catch me on YouTube, I guess.
+ (clapping)
+ - Good job.
+ - I feel like it's just the bomb.
+ (laughing)
+ - But no more, you don't have any ultimate Frisbee practice.
+ - No, not today.
+ I didn't make the same mistake twice.
+ (soft music)
